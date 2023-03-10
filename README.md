@@ -1,1 +1,2 @@
-# Microservice-Application-TALENTPLUS
+# Microservice-Application-Altschool Exercise
+## Server ONE
